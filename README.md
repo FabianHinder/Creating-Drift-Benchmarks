@@ -22,11 +22,11 @@ currently under review
 ```
 
 ## Real-World Streams
-* *Nebraska Weather* [https://users.rowan.edu/~polikar/nse.html](Original source)
-* *Electricity market dataset* [http://www.inescporto.pt/~jgama/ales/ales_5.html](Original source)
-* *Forest Cover Type* [https://archive.ics.uci.edu/ml/datasets/Covertype](Original source)
-* *HTTP* dataset of the KDD 1999 cup. [https://odds.cs.stonybrook.edu/http-kddcup99-dataset/](Original source)
-* *Credit Card* [https://maxhalford.github.io/files/datasets/creditcardfraud.zip](Source)
+* *Nebraska Weather* [Original source](https://users.rowan.edu/~polikar/nse.html)
+* *Electricity market dataset* [Original source](http://www.inescporto.pt/~jgama/ales/ales_5.html)
+* *Forest Cover Type* [Original source](https://archive.ics.uci.edu/ml/datasets/Covertype)
+* *HTTP* dataset of the KDD 1999 cup. [Original source](https://odds.cs.stonybrook.edu/http-kddcup99-dataset/)
+* *Credit Card* [Source](https://maxhalford.github.io/files/datasets/creditcardfraud.zip)
 
 ## License
 This code has a MIT license. 
