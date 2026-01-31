@@ -11,11 +11,11 @@ Concept drift -- changes in the data distribution over time -- is a central chal
 * scikit-learn, river
 
 ## Usage
-Run all experiments via the `Run_Benchmarks.py` script. One analysis of the resutls is presented in `Analyze.ipynb`.
+Run all experiments via the `Run_Benchmarks.py` script. One analysis of the results is presented in `Analyze.ipynb`.
 
 ## Cite
 
-Cite out paper
+Cite our paper
 
 ```
 currently under review
@@ -29,6 +29,6 @@ currently under review
 * *Credit Card* [Source](https://maxhalford.github.io/files/datasets/creditcardfraud.zip)
 
 ## License
-This code has a MIT license. 
+This code has an MIT license. 
 
-Datasets are not included in the license and only provided for conviniance and may fall under a different licens. 
+Datasets are not included in the license and are only provided for convenience and may fall under a different license. 
